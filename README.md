@@ -2,13 +2,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  
+  <a href="https://github.com/karadagokan">
+    <img src="https://user-images.githubusercontent.com/55664312/101492752-2f743080-3976-11eb-9e9c-35c14aa30868.png" alt="Logo" width="80" height="80">
+  </a>
 
   <h3 align="center">Sahibinden.com Mega Fotoğraf Indirici</h3>
 
   <p align="center">
    Selenium Bot
   </p>
-
 
 <!-- Hakkında -->
 ## Hakkında
