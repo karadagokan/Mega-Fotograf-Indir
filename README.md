@@ -23,7 +23,7 @@ Sahibinden.com sitesinde bazen fotoğrafları daha fazla büyütemiyoruz. Bunun 
 
 <!-- Yükleme -->
 ## Yükleme
-chromedriver.exe indirilenler klasörünüze atınız daha sonra Sahibinden.exe yi çalıştırınız.
+chromedriver.exe indirilenler klasörünüze atınız.
 
 <!-- İletişim -->
 ## İletişim
