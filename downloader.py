@@ -25,7 +25,7 @@ class Sahibinden:
 
 
     def goAdvertisement(self):
-        self.browser.get("https://www.sahibinden.com/")
+        self.browser.get("https://www.-.com/")# Website
         time.sleep(1)
         advertisementSearch = self.browser.find_element_by_xpath("//*[@id='searchText']")
         advertisementSearch.send_keys(self.advertisementID)
