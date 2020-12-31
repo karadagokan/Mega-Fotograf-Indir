@@ -28,7 +28,7 @@ chromedriver.exe indirilenler klasörünüze atınız.
 <!-- İletişim -->
 ## İletişim
 
-[Linkedin Account](https://www.linkedin.com/in/okankaradag365) | [Project Link](https://github.com/karadagokan/Sahibinden.com-Mega-Fotograf-Indir) 
+[Linkedin Account](https://www.linkedin.com/in/okankaradag365) | [Project Link](https://github.com/karadagokan/Mega-Fotograf-Indir) 
 
 ## Not
 Amacı dışında kullanımdan kullanıcı sorumludur.
